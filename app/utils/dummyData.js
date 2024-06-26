@@ -1,59 +1,59 @@
 export const dummyData = [
     {
       image: "https://loremflickr.com/640/360",
-      name: "Bitcoin",
-      gap: "$10000",
-      desc:"Chinese Takeout",
+      name: "HOLD",
+      gap: "$1000",
+      desc:"Hold on ICP",
       replies: "500"
     },
     
     {
       image: "https://loremflickr.com/640/360?random=6",
-      name: "Avalanche",
-      gap: "$30",
-      desc:"High-Performance Blockchain",
+      name: "DogWifRunes",
+      gap: "$300",
+      desc:"Bitcoin runes first DWR",
       replies: "160"
     },
     {
       image: "https://loremflickr.com/640/360?random=7",
-      name: "Binance Coin",
+      name: "Bonk Coin",
       gap: "$600",
-      desc:"Cryptocurrency Exchange Token",
+      desc:"Welcome to Token on IC",
       replies: "180"
     },
     {
       image: "https://loremflickr.com/640/360?random=8",
-      name: "Stellar",
+      name: "DogeMotok",
       gap: "$0.01",
-      desc:"Fast, Low-Cost Digital Money",
+      desc:"Fastest Doge on IC",
       replies: "190"
     },
     {
       image: "https://loremflickr.com/640/360?random=9",
-      name: "Dogecoin",
+      name: "AIBlock",
       gap: "$0.0001",
-      desc:"Meme Coin",
+      desc:"An AI memecoin on Internet Computer",
       replies: "210"
     },
     {
       image: "https://loremflickr.com/640/360?random=10",
-      name: "VeChain",
+      name: "Bullana",
       gap: "$10",
-      desc:"Supply Chain Platform",
+      desc:"Buy bull! Buy bull",
       replies: "220"
     },
     {
       image: "https://loremflickr.com/640/360?random=11",
-      name: "EOS",
+      name: "Motok",
       gap: "$40",
-      desc:"Smart Contract Platform",
+      desc:"Fastest on Internet",
       replies: "230"
     },
     {
       image: "https://loremflickr.com/640/360?random=12",
-      name: "Tezos",
+      name: "Poshee",
       gap: "$100",
-      desc:"Self-Amending Cryptocurrency Protocol",
+      desc:"Posheee on Internet Computer",
       replies: "240"
     },
  
