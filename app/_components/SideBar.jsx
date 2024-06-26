@@ -8,8 +8,8 @@ const SideBar = () => {
             <div className="flex flex-col h-screen justify-between ">
                 <div >
                     <div className='flex gap-1 border-b border-cr-gray border-opacity-30 pb-4 px-4'>
-                        <img src="/bananalogo.png" alt="" />
-                        <h1 className='font-medium  lg:text-xl'>ApeStore</h1>
+                        <img src="" alt="" />
+                        <h1 className='font-medium  lg:text-xl'>AstroApe</h1>
                     </div>
                     <ul className=" space-y-1 px-4">
                         <li className='flex flex-row items-center gap-3'>
@@ -37,7 +37,7 @@ const SideBar = () => {
                                 href="#"
                                 className="  px-4 py-2 text-lg  font-mediumm text-cr-gray hover:text-white"
                             >
-                                My Apes
+                                My Tokens
                             </a>
 
                         </li>
@@ -75,25 +75,20 @@ const SideBar = () => {
 
                     </ul>
                 </div>
-                <div className=" py-6 mb-[4rem] ">
-                    <button className=' lg:w-full mb-3 flex gap-1 lg:gap-3 p-4 lg:p-5 justify-center max-w-[200px]  bg-cr-dark-black-main rounded-3xl shadow-md border border-violet-500/100 '>
-                        <div className=' p-2 rounded-full bg-white flex justify-center items-center'>
-                            <div className='h-[7px] w-[7px] bg-cr-dark-black-main'></div>
-                        </div>
-                        <h1 className='text-md whitespace-nowrap lg:font-bold'>Create Wallet</h1>
-                    </button>
+                 <div className=" py-6 mb-[4rem] ">
+                    
                     <div className='max-w-[200px] '>
                         <select name="" id="" className='bg-cr-dark-black-main  w-full text-[#303030] text-lg outline-none p-1.5 rounded-lg border border-[#303030]'>
                             <option value=""></option>
                             <option value="">All Network</option>
-                            <option value="">Base</option>
-                            <option value="">BNB Smart Chain</option>
-                            <option value="">Arbitrum</option>
+                            <option value="">ICP</option>
+                            <option value="">Bitcoin</option>
+                            <option value="">Ethereum</option>
 
                         </select>
                     </div>
-                    <div className='mt-3 flex gap-3 p-1.5 max-w-[200px]  justify-center border border-cr-orange-main bg-cr-orange rounded-lg '>
-                        <h1>icon</h1>
+                    <div className='mt-3 flex gap-3 p-1.5 max-w-[200px]  justify-center border border-cr-red-main bg-cr-purple rounded-lg '>
+                        <h1>App</h1>
                         <h1>Tutorial</h1>
                     </div>
                     <div className='max-w-[170px] '>

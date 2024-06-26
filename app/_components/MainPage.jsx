@@ -19,7 +19,7 @@ const MainPage = () => {
     return (
         <div>
             
-            <div className='bg-[url("https://ape.store/img/apebg.jpg")]'>
+            <div className=''>
 
                 <div className=' backdrop-opacity-10 backdrop-invert bg-cr-dark-black-main/95 pt-[2rem] '>
                 <HeroSwipper />

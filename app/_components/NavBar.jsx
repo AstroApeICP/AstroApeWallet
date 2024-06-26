@@ -11,17 +11,17 @@ const NavBar = ({ isOpen, toggleSidebar }) => {
                 </div>
                 <h1 className='hidden lg:block p-2 border bg-cr-orange border-cr-orange-main rounded-lg bg-opacity-30 border-opacity-40 text-[#787773'>Connect</h1>
                 <div className='lg:hidden flex gap-3 lg:border-b border-cr-gray border-opacity-30 pb-4 px-4 mt-4'>
-                        <img src="/bananalogo.png" alt="" className=''/>
-                        <h1 className='font-medium text-lg lg:text-2xl'>ApeStore</h1>
+                        <img src="" alt="" className=''/>
+                        <h1 className='font-medium text-lg lg:text-2xl'>AstroApe</h1>
                     </div>
                <div className='lg:hidden flex flex-row gap-2 items-center'>
                <div>
                         <select name="" id="" className='bg-cr-dark-black-main  w-full text-[#303030] text-xs outline-none p-1.5  rounded-lg border border-[#303030]'>
                             <option value=""></option>
                             <option value="">All Network</option>
-                            <option value="">Base</option>
-                            <option value="">BNB Smart Chain</option>
-                            <option value="">Arbitrum</option>
+                            <option value="">ICP</option>
+                            <option value="">Bitcoin</option>
+                            <option value="">Ethereum</option>
 
                         </select>
                     </div>
